@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Coolify::VERSION
   spec.authors       = ["Kayode Adeniyi"]
   spec.email         = ["kayode.adeniyi@andela.co"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{This is a gem that manages the creating of module}
+  spec.description   = %q{This is a gem that manages the creating of module}
   spec.homepage      = ""
   spec.license       = "MIT"
 
