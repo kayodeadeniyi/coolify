@@ -4,8 +4,8 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'coolify/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "coolify"
-  spec.version       = Coolify::VERSION
+  spec.name          = "coolifyk"
+  spec.version       = Coolifyk::VERSION
   spec.authors       = ["Kayode Adeniyi"]
   spec.email         = ["kayode.adeniyi@andela.co"]
   spec.summary       = %q{This is a gem that manages the creating of module}

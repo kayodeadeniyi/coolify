@@ -1,4 +1,4 @@
-module Coolify
+module Coolifyk
  def self.create(path,root = Object)
   #A::B::C
   path.split('::').each do |name|
@@ -16,5 +16,5 @@ module Coolify
    new_module
   end
  end
- 
+
 end
